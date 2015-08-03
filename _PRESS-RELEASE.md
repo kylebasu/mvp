@@ -18,27 +18,36 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  Basketball Coaches Clipboard
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  For coaches looking to teach common plays to their players
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  This product provides a visual representation of common plays in basketball. Through use of this product, coaches will be able to effectively communicate the proper positions players should be at in order to exectue a play effectively.
 
 ## Problem ##
   > Describe the problem your product solves.
+  This product solves the problem that comes with attempting to teach players their roles in each play without visualization tools. A clipboard can lead to a messy and somewhat confusing solution.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  This product provides clear representation of each players position and role in the play. It allows coaches to give clear instructions and work with players on the basketball related actions of a play rather than the proper position on the court.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  "With this product, coaches will be able to move past the basics of a play and instead focus on proper execution"
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  Getting started with this product is simple, you simply click the button for the play you wish to examine and the pieces will move to their proper places
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  "With this product I've been able to teach my students the basics of essential plays in a quick manner. Through this product we gained a competitive edge on our opponents."
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  This product will have use regardless of level, it is a universal tool that can be applied to any range of talent/skill/knowledge. Get started looking at plays as soon as possible and spend more time on the court, less time in the film room.
