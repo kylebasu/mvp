@@ -34,3 +34,65 @@ svg {
   color: #006BB6;
   float: right
 }
+
+.hider {
+  display: none;
+}
+
+.left{
+  background-color: #006BB6;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 250px;
+}
+
+button{
+  border-style: none;
+  font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+  color: #FDB927;
+  background-color:#006BB6;
+  font-size: 17px;
+}
+
+.horns{
+  position: absolute;
+  top:45%;
+  left:30%;
+}
+
+.post {
+  position: absolute;
+  top:55%;
+  left:30%;
+}
+
+.midScreen{
+  position: absolute;
+  top:50%;
+  left:30%;
+}
+
+.reset{
+  position: absolute;
+  top: 60%;
+  left: 30%;
+}
+
+.right{
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  height: 100%;
+  width: 250px;
+  background-color: #FDB927;
+}
+
+.logo{
+  position: absolute;
+  top: 40%;
+  left:30%;
+  height: 25%;
+  width:50%;
+}
